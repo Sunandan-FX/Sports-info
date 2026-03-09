@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
     printf("Hello");
-    print("3.1 Semester")
-    print("6.1 semester")
+    printf("3.1 Semester");
+    printf("6.1 semester");
+    printf("4 hp");
+
 } 
